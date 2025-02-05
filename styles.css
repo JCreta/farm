@@ -228,19 +228,33 @@ nav ul li:hover {
     text-shadow: 2px 2px 4px var(--black);
 }
 
-dt {
-    margin-top: 10px;
-}
-
-dd {
-    display: inline-flex;
-    font-size: small;
-}
-
 footer h2 {
     text-shadow: 2px 2px 4px var(--black);
 }
 
+#hours-list {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+#hours-list div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 0;
+}
+
+#hours-list dt {
+    font-weight: bold;
+    min-width: 120px; /* Adjust as needed */
+}
+
+#hours-list dd {
+    flex: 1;
+}
 
 /*-------------------- MEDIA QUERY (medium) --------------------------------*/
 @media screen and (min-width: 834px) {
