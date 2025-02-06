@@ -375,6 +375,7 @@ footer h2 {
         grid-column: 3/4;    
     }
 
+    
     footer address{
         grid-column: 2/3;
         padding-top: 10px;   
@@ -389,6 +390,13 @@ footer h2 {
     #copy-r{
         grid-column: 1/6;
     }
+    
+        h2#hours, h2#contact {
+        text-align: center;
+        padding-top: 40px;
+    }  
+       
+    
 }
 
 
