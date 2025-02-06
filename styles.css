@@ -377,7 +377,8 @@ footer h2 {
 
      footer address {
         grid-column: 2/3;
-        padding-top: 10px;   
+        padding-top: 10px; 
+	padding-right: 80px;
     }
 
     footer p {
