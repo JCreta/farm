@@ -399,8 +399,12 @@ footer h2 {
         margin-right: 7PX;
         text-wrap-mode: nowrap;
     }
+    footer {
     grid-row-gap: 0px; {
     }
+    h2#contact, h2#hours: {
+        padding-right: 70px;
+{
 }
 
 
