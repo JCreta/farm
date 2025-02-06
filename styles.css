@@ -399,6 +399,8 @@ footer h2 {
         margin-right: 7PX;
         text-wrap-mode: nowrap;
     }
+    grid-row-gap: 0px; {
+    }
 }
 
 
@@ -414,4 +416,6 @@ footer h2 {
     dl#hours-list {
         margin-right: 20px;
     }    
+    grid-row-gap: 0px; {
+    }
 }
