@@ -322,11 +322,6 @@ footer h2 {
         grid-row: 2/3;
     }
 
-    footer address, p{
-        font-size: 0.8em;
-    }
-
-
     #copy-r{
         grid-column: 1/3;
     }
