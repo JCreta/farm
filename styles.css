@@ -396,7 +396,7 @@ footer h2 {
         padding-top: 40px;
     }
     dl#hours-list {
-        padding-right: 12PX;
+        padding-right: 8PX;
         TEXT-WRAP-MODE: NOWRAP;
     }
 }
