@@ -249,6 +249,10 @@ footer h2 {
 }
 
 #hours-list dt {
+<<<<<<< HEAD
+=======
+    font-weight: bold;
+>>>>>>> 868ee9c69325c09762478540f7dd7486c2d6a7fc
     min-width: 120px; 
 }
 
@@ -395,22 +399,33 @@ footer h2 {
         text-align: center;
         padding-top: 40px;
     }
+<<<<<<< HEAD
 
     h2#contact {
         text-align: center;
         padding-top: 40px;
     }
     
+=======
+>>>>>>> 868ee9c69325c09762478540f7dd7486c2d6a7fc
     dl#hours-list {
         margin-right: 7PX;
         text-wrap-mode: nowrap;
     }
     footer {
+<<<<<<< HEAD
     grid-row-gap: 0px;
     }
     h2#contact , h2#hours  {
         padding-right: 70px;
     }
+=======
+    grid-row-gap: 0px; {
+    }
+    h2#contact, h2#hours: {
+        padding-right: 70px;
+{
+>>>>>>> 868ee9c69325c09762478540f7dd7486c2d6a7fc
 }
 
 
@@ -424,6 +439,7 @@ footer h2 {
         grid-column: 1/5;
     }
     dl#hours-list {
+<<<<<<< HEAD
         padding-right: 20px;
     }    
     
@@ -431,3 +447,10 @@ footer h2 {
     grid-row-gap: 0px;
     }
 }
+=======
+        margin-right: 20px;
+    }    
+    grid-row-gap: 0px; {
+    }
+}
+>>>>>>> 868ee9c69325c09762478540f7dd7486c2d6a7fc
