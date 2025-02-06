@@ -309,7 +309,9 @@ footer h2 {
         text-align: center;
         padding-top: 30px;
     }
-
+    footer address p {
+        padding-top: 0px;
+    }
     #hours {
         grid-column: 2/3;
         grid-row: 1/2;
